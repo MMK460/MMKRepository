@@ -1,6 +1,13 @@
 # MMKRepository
 
 爱赚-找兼职必备
+
+iOS App Technical Support
+
+Email：zack@grossbart.com
+
+TEl: +1 514889235
+
 ![image](https://github.com/MMK460/MMKRepository/blob/master/555.png)
 海量兼职信息免费查询、发布。
 找兼职没爱赚怎么行？找兼职必备。
